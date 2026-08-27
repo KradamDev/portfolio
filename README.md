@@ -1,8 +1,7 @@
 Kradam Dev — Portfolio
 My personal portfolio website. Built from scratch with HTML, CSS, and JavaScript — no frameworks, no build tools, just the fundamentals.
 
-Live Site
-Coming soon — will be hosted on Netlify.
+Live Site: https://kradam-portfolio.netlify.app
 
 What's in here
 Single-file portfolio (index.html) — everything inline, no external dependencies except Google Fonts
