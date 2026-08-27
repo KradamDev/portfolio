@@ -25,11 +25,9 @@ Google Fonts (Fraunces, Inter)
 How to run locally
 Just open index.html in your browser. That's it — no server, no build step, no dependencies to install.
 
-About me
+About me: 
 First-year CS student at Bundelkhand University. Self-taught web developer since 2020. Currently learning React and exploring vibe coding with AI tools. Working toward full-stack.
 
 GitHub: @KradamDev
 Email: kradam2557@gmail.com
 Built & designed by Kradam Dev · 2026
-
-Indus by Sarvam
